@@ -24,3 +24,16 @@ To run the Unit Tests
 ```
 $ npm run test
 ```
+
+## API
+
+It is using [regres.in](https://reqres.in/) for the API to mock a Login workflow.
+
+Here are the credentials for a successful login
+
+```
+{
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+}
+```
